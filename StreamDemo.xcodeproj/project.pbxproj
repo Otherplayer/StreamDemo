@@ -13,6 +13,7 @@
 		6391078A1D9A752400FFE264 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 639107881D9A752400FFE264 /* Main.storyboard */; };
 		6391078C1D9A752400FFE264 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6391078B1D9A752400FFE264 /* Assets.xcassets */; };
 		6391078F1D9A752400FFE264 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6391078D1D9A752400FFE264 /* LaunchScreen.storyboard */; };
+		639107971D9A756600FFE264 /* hello.js in Resources */ = {isa = PBXBuildFile; fileRef = 639107961D9A756600FFE264 /* hello.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6391078B1D9A752400FFE264 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6391078E1D9A752400FFE264 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		639107901D9A752400FFE264 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		639107961D9A756600FFE264 /* hello.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = hello.js; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				639107881D9A752400FFE264 /* Main.storyboard */,
 				6391078B1D9A752400FFE264 /* Assets.xcassets */,
 				6391078D1D9A752400FFE264 /* LaunchScreen.storyboard */,
+				639107961D9A756600FFE264 /* hello.js */,
 				639107901D9A752400FFE264 /* Info.plist */,
 				6391077F1D9A752400FFE264 /* Supporting Files */,
 			);
@@ -139,6 +142,7 @@
 				6391078F1D9A752400FFE264 /* LaunchScreen.storyboard in Resources */,
 				6391078C1D9A752400FFE264 /* Assets.xcassets in Resources */,
 				6391078A1D9A752400FFE264 /* Main.storyboard in Resources */,
+				639107971D9A756600FFE264 /* hello.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
